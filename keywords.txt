@@ -1,0 +1,3 @@
+NTCTemp	KEYWORD1
+getCelsius	KEYWORD2
+getFahrenheit	KEYWORD2
