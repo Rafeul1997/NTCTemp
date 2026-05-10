@@ -2,21 +2,7 @@
 
 Universal NTC thermistor temperature library for Arduino-compatible microcontrollers.
 
----
-
-# Status
-
-![Status](https://img.shields.io/badge/Status-Active-success)
-
-# Version
-
-![Version](https://img.shields.io/badge/Version-1.0.0-blue)
-
-# License
-
-![License](https://img.shields.io/badge/License-MIT-green)
-
----
+![Status](https://img.shields.io/badge/Status-Active-success) ![Version](https://img.shields.io/badge/Version-1.0.0-blue) ![License](https://img.shields.io/badge/License-MIT-green)
 
 # Supported Boards
 
