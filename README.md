@@ -2,7 +2,7 @@
 
 Universal NTC thermistor temperature library for Arduino-compatible microcontrollers.
 
-![Status](https://img.shields.io/badge/Status-Active-success) ![Version](https://img.shields.io/badge/Version-1.0.0-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-success) ![Version](https://img.shields.io/badge/Version-1.0.0-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Arduino](https://img.shields.io/badge/Arduino-Compatible-00979D?logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-Supported-red) ![ESP8266](https://img.shields.io/badge/ESP8266-Supported-orange) ![RP2040](https://img.shields.io/badge/RP2040-Pico-pink) ![STM32](https://img.shields.io/badge/STM32-Compatible-blueviolet) ![PIC](https://img.shields.io/badge/PIC-Compatible-lightgrey) ![Status](https://img.shields.io/badge/Status-Active-success) ![Version](https://img.shields.io/badge/Version-1.0.0-blue) ![License](https://img.shields.io/badge/License-MIT-green)
 
 # Supported Boards
 
